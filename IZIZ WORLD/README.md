@@ -1,15 +1,3 @@
-<p align="center">
- 
-![image](https://github.com/lali000/danger-multitool/assets/144680334/26832fb8-25b2-445c-b499-50544a12453b)
-
-
-
-
-
-
-A powerful Multitool made with python<br/>
-
-
 ## Installing
  
 
